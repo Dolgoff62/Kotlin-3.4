@@ -37,7 +37,7 @@ class MainKtTest {
             mastercardAndMaestroCommission = mastercardAndMaestroCommission,
             visaAndMirCommission = visaAndMirCommission
         )
-        assertEquals(result, 100_000)
+        assertEquals(result, 92_000)
     }
 
     @Test
